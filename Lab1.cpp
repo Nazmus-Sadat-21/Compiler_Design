@@ -18,6 +18,8 @@ void Numeric(string a) {
 
 }
 
+
+
 void Operators(string b) {
     for (int i = 0; i < b.length(); i++) {
         if (b[i] == '+' || b[i] == '-'|| b[i] == '*'|| b[i] == '/'|| b[i] == '=') {
@@ -62,3 +64,4 @@ int main()
 
     return 0;
 }
+
