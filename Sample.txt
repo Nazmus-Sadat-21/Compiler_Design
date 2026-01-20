@@ -4,3 +4,11 @@ bhbgh
 jn_vjfn
 hrgt8jregt
 bfbre hfri
+hhdb-nfk
+4vsdbf76t45
+
+int main ( ){
+    int a,b,c;
+    a = 10;
+    return 0;
+}
